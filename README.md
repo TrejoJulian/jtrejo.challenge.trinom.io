@@ -18,7 +18,12 @@
 3. On the same terminal, run ng serve. The application should start running in port 4200. You can acccess it by going to http://localhost:4200/. 
 
 ## Goal
-This web application's aim is to provide the user with the ability to manage people and their courses. The user can visualize everyone check their details, and edit them if required. Courses can be added and removed from the people listed. Delete functionality was also added. The course list is also available in the courses section that can be found in the navbar. Finally, this application was made to be responsive to work both in computer screens as well as cellphones. 
+This web application's aim is to provide the user with the ability to manage people and their courses: 
+- The user can visualize everyone check their details, and edit them if required. 
+- Courses can be added and removed from the people listed.
+- Delete functionality was also added. 
+- The course list is also available in the courses section that can be found in the navbar. 
+This application was made to be responsive to work both in computer screens as well as cellphones. 
 
 ## How to use:
 
