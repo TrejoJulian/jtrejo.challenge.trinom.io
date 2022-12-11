@@ -1,7 +1,7 @@
 # trinom.io Challenge
 
 
-## Technologic stack:
+## Technologies Used:
 - Angular 15
 - Node v16.16.0
 - Bootstrap 3 to allow compatibility with older navigators.
