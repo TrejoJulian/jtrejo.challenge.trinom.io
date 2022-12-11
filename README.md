@@ -25,6 +25,6 @@ This web application's aim is to provide the user with the ability to manage peo
 The home page is the people list. Click on someone to view his or her details. You can also edit or detele said person by pressing the Manage Person button, or simply add someone new via the Add New button. Regarding the edit or registration form, here are the requirements for every field:
 - first name: It cannot be empty, can not contain only whitespaces and it can contain up to 30 characters.
 - last name: It cannot be empty, can not contain only whitespaces and it can contain up to 30 characters.
-- email: it must be a valid email and it can contai up to 254 characters.
+- email: it must be a valid email and it can contain up to 254 characters.
 - course name: For example English 1, English 2, English 3. You can check all courses in the Courses section.
 
