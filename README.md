@@ -9,8 +9,8 @@
 - ngx-pagination library for pagination.
 
 ## Prerequisites:
-1- Have Angular Cli installed.
-2- Have Node installed.
+1. Have Angular Cli installed.
+2. Have Node installed.
 
 ## How to run:
 1. Clone the repository or download the tag and unzip it.
